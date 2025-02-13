@@ -9,7 +9,7 @@ The goal is to analyze customer distribution across regions and time to gain ins
 
 # First Step: Achieving high-level understanding
 To understand WSDA Music's geographical sales distribution, we identify the countries with the highest sales.
-- [High-level analysis by finding the number of countries and cities](High-level analysis by finding the number of countries and cities)
+High-level analysis by finding the number of countries and cities](High-level analysis by finding the number of countries and cities)
 - **Identifying the countries with the highest sale**
 - **Identifying the cities with the hieghst sale**
 
