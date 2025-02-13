@@ -4,3 +4,13 @@ SELECT
 	count(DISTINCT BillingCity)
 From
 	Invoice
+
+SELECT
+	BillingCountry,
+	count(DISTINCT BillingCity) AS "Number of Cities"
+From
+	Invoice
+Group By
+	BillingCountry
+ORDER BY
+	count(DISTINCT BillingCity) DESC
