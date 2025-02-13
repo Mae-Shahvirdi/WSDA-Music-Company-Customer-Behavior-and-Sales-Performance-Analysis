@@ -13,16 +13,16 @@ To understand WSDA Music's geographical sales distribution, we identify the coun
 - **[Identifying the countries with the highest sales](https://github.com/Mae-Shahvirdi/WSDA-Music-Company-Customer-Behavior-and-Sales-Performance-Analysis/edit/main/Identifying%20the%20countries%20with%20the%20highest%20sales.sql)**
 - **[Identifying the cities with the highest sales](https://github.com/Mae-Shahvirdi/WSDA-Music-Company-Customer-Behavior-and-Sales-Performance-Analysis/blob/main/Identifying%20the%20cities%20with%20the%20highest%20sales.sql)**
 
-# Second Step: Gaining insights into sales trends over time
+## Second Step: Gaining insights into sales trends over time
 - **[Identifying the year with the highest sales](https://github.com/Mae-Shahvirdi/WSDA-Music-Company-Customer-Behavior-and-Sales-Performance-Analysis/blob/main/Identifying%20the%20year%20with%20the%20highest%20sales.sql)**
 - **[Identifying the month with the highest sales](https://github.com/Mae-Shahvirdi/WSDA-Music-Company-Customer-Behavior-and-Sales-Performance-Analysis/blob/main/Identifying%20the%20month%20with%20the%20highest%20sales.sql)**
 - **[Conducting a detailed analysis of sales by year and month](https://github.com/Mae-Shahvirdi/WSDA-Music-Company-Customer-Behavior-and-Sales-Performance-Analysis/blob/main/Conducting%20a%20detailed%20analysis%20of%20sales%20by%20year%20and%20month.sql)**
 
-# Third Step: Global customer distribution
+## Third Step: Global customer distribution
 - **[Identifying the country with the highest number of customers](https://github.com/Mae-Shahvirdi/WSDA-Music-Company-Customer-Behavior-and-Sales-Performance-Analysis/blob/main/Identifying%20the%20country%20with%20the%20highest%20number%20of%20customers.sql)**
 - **[Identifying the cities with the highest number of customers](https://github.com/Mae-Shahvirdi/WSDA-Music-Company-Customer-Behavior-and-Sales-Performance-Analysis/blob/main/Identifying%20the%20cities%20with%20the%20highest%20number%20of%20customers.sql)**
 
-# Forth Step: Making combined tables
+## Forth Step: Making combined tables
 - **[Year and month analyzed alongside cities and countries](https://github.com/Mae-Shahvirdi/WSDA-Music-Company-Customer-Behavior-and-Sales-Performance-Analysis/blob/main/Year%20and%20month%20analyzed%20alongside%20cities%20and%20countries.sql)**
 - **[Sales and Customer Distribution by Country, City, Year, and Month](https://github.com/Mae-Shahvirdi/WSDA-Music-Company-Customer-Behavior-and-Sales-Performance-Analysis/blob/main/Sales%20and%20Customer%20Distribution%20by%20Country%2C%20City%2C%20Year%2C%20and%20Month.sql)**
 
