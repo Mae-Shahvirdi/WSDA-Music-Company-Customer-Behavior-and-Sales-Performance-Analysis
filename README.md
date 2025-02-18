@@ -30,4 +30,4 @@ To understand WSDA Music's geographical sales distribution, we identify the coun
 Based on the analysis and the generated tables, we can extract relevant information to further examine the data and answer additional questions. For example, we can explore the correlation between the number of customers in cities and countries, determine whether the city with the highest number of customers is located in the country with the highest customer count, and identify potential seasonal sales patterns. Utilizing visualizations will enhance clarity and support deeper analysis.
 
 ##
-### To view the visualizations of the analysis, please visit this [link](https://public.tableau.com/app/profile/mea.shahvirdi/viz/WSDAMusicCompanyCustomerBehaviorandSalesPerformanceAnalysis/Story1?publish=yes)
+### To view the visualizations of the analysis, please visit this [link].(https://public.tableau.com/app/profile/mea.shahvirdi/viz/WSDAMusicCompanyCustomerBehaviorandSalesPerformanceAnalysis/Story1?publish=yes)
